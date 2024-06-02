@@ -98,6 +98,18 @@ section {
     color: #fff;
 }
 
+.parallax_russell {
+    height: 400px;
+    background: url('https://mir-s3-cdn-cf.behance.net/projects/404/9b3b0d141111701.Y3JvcCwzMjQwLDI1MzQsMCww.png') no-repeat fixed;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+
+}
+
+
 .parallax-content {
     text-align: center;
 }
